@@ -15,7 +15,7 @@ https://github.com/ironjr/StreamMultiDiffusion
 https://arxiv.org/abs/2403.09055
 
 ### 🖼 Output
-![Screenshot 2024-03-20 083119](https://github.com/camenduru/SemanticPalette-jupyter/assets/54370274/2dd5eea8-0723-4534-90e8-eb83aa770716)
+![Screenshot 2024-03-22 130432](https://github.com/camenduru/SemanticPalette-jupyter/assets/54370274/eb0446e1-63da-491e-ab98-174ab3dc2188)
 
 ### 🏢 Sponsor
 https://modelslab.com
